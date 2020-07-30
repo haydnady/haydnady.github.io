@@ -1,7 +1,7 @@
 ## Welcome My ePortfolio Page
 
 Code Review:
-[!](https://vimeo.com/user7508763/review/443077415/e77878c121)
+[!(https://i.vimeocdn.com/video/932425618_130x73.jpg)](https://vimeo.com/443077415)
 
 
 ### Markdown
