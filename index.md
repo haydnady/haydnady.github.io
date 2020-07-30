@@ -1,8 +1,8 @@
 ## Welcome My ePortfolio Page
 
-Code Review:
+Code Review (click thumbnail to play video):
 
-[![Code Review](https://i.vimeocdn.com/video/932425618_230x173.jpg)](https://vimeo.com/443077415)
+[![Code Review](https://i.vimeocdn.com/video/932425618_330x200.jpg)](https://vimeo.com/443077415)
 
 
 ### Markdown
