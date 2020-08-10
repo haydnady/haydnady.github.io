@@ -25,7 +25,7 @@ Image of interactive graph generated.
 [GitHub Link PythonLinkedListGUI](https://github.com/haydnady/PythonLinkedListGUI)
 
 This software I developed named PythonLinkedListGUI is a GUI that shows the linked list when data is added, removed or searched. This idea came from doing linked list projects in C++ and Java. I started this project in 2020. I developed this from scratch using skills from Python courses and also using Qt, “Qt is the faster, smarter way to create innovative devices, modern UIs & applications for multiple screens. Cross-platform software development at its best.” - [Qt](https://www.qt.io/)
-![Image of application](https://github.com/haydnady/PythonLinkedListGUI/blob/master/img/uiScreenshot.JPG)
+![Image of application](https://raw.githubusercontent.com/haydnady/PythonLinkedListGUI/master/img/uiScreenshot.JPG)
 
 
 ### Algorithms and data structure project
