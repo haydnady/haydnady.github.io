@@ -1,5 +1,8 @@
 ## Welcome My ePortfolio Page
 
+### Professional self-assessment
+WIP
+
 Code Review (click thumbnail to play video):
 
 [![Code Review](https://i.vimeocdn.com/video/932425618_330x200.jpg)](https://vimeo.com/443077415)
@@ -15,31 +18,45 @@ Here’s a visual workflow of the software.
 ![Image of process flow](https://github.com/haydnady/haydnady.github.io/blob/master/img/Nationalgrid%20Software%20Outline.png)
 
 
+### Algorithms and data structure project
+[GitHub Link PythonLinkedListGUI](https://github.com/haydnady/PythonLinkedListGUI)
+
+This software I developed named PythonLinkedListGUI is a GUI that shows the linked list when data is added, removed or searched. This idea came from doing linked list projects in C++ and Java. I started this project in 2020. I developed this from scratch using skills from Python courses and also using Qt, “Qt is the faster, smarter way to create innovative devices, modern UIs & applications for multiple screens. Cross-platform software development at its best.” - [Qt](https://www.qt.io/)
+![Image of application](https://github.com/haydnady/PythonLinkedListGUI/blob/master/img/uiScreenshot.JPG)
+
+
+### Algorithms and data structure project
+[GitHub Link PythonLinkedListGUI](https://github.com/haydnady/PythonLinkedListGUI)
+
+This project is a MongoDB project (named MongoDBCRUD) from my CS Advanced Programming Concepts course. It was created in 2020. The software allows one to perform CRUD operation on a MongoDB database (for example: read, add, update, delete). 
+Including this project in my ePortfolio will help show my ability to work with databases. I improved the project by adding error handling. I also made it so it would take user input, instead of hardcoding everything in the code. I also cleaned and formatted the code for maintainability and better readability. 
+
 
 ```markdown
-Syntax highlighted code block
+Code example of creating and reading a document using Python and MongoDB
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+# ============================================== Create Docs
+def insert_document(document):
+    status = True
 
-1. Numbered
-2. List
+    try:
+        collection.insert_one(document)
+    except Exception as e:
+        print("\n\t -->", e)
+        status = False
 
-**Bold** and _Italic_ and `Code` text
+    return status
 
-[Link](url) and ![Image](src)
+# ============================================== Read Docs
+def read_document(document):
+    result = ""
+
+    try:
+        result = collection.find_one(document)
+    except Exception as e:
+        print("\n\t -->", e)
+
+    return result
+
 ```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/haydnady/haydnady.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
