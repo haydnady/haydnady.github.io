@@ -12,6 +12,7 @@ This software I developed named NGUsageGrapher is a graphing software that speci
 I selected this project because it will help illustrate my skills working with files in python, analytical skills and the ability to use python with web-based libraries. The python module used will hopefully show my skills in python using libraries, the code itself will show consistency and attention to details in programming, and the graph will show my understanding of analyzing data using software.
 I learned a lot more about using python module pandas and I also feel more comfortable using plotly the more I use it in my projects. 
 Here’s a visual workflow of the software.
+![Image of process flow](https://github.com/haydnady/haydnady.github.io/blob/master/img/Nationalgrid%20Software%20Outline.png)
 
 
 
