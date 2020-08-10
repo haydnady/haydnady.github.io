@@ -5,9 +5,15 @@ Code Review (click thumbnail to play video):
 [![Code Review](https://i.vimeocdn.com/video/932425618_330x200.jpg)](https://vimeo.com/443077415)
 
 
-### Markdown
+### Software design and engineering project
+[GitHub Link NGUsageGrapher](https://github.com/haydnady/NGUsageGrapher)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+This software I developed named NGUsageGrapher is a graphing software that specifically graphs your nationalgrid usage data. This idea came from using Natinalgrid’s website and the need of wanting features that help me analyses my electricity usage over the years, as the nationalgrid website was limited on that aspect. I started this project in 2020. I developed this from scratch using skills from Python courses and also using plotly (web-based data science graphing tool/library, with interactive graph for analytical applications). 
+I selected this project because it will help illustrate my skills working with files in python, analytical skills and the ability to use python with web-based libraries. The python module used will hopefully show my skills in python using libraries, the code itself will show consistency and attention to details in programming, and the graph will show my understanding of analyzing data using software.
+I learned a lot more about using python module pandas and I also feel more comfortable using plotly the more I use it in my projects. 
+Here’s a visual workflow of the software.
+
+
 
 ```markdown
 Syntax highlighted code block
