@@ -1,7 +1,7 @@
 ## Welcome My ePortfolio Page
 
 ### Professional self-assessment
-WIP
+During my coursework I learn many languages in computer science. I created this ePortfolio to help showcased my strengths in multiple areas. Software design and engineering, algorithms and data structure, and databases. 
 
 Code Review (click thumbnail to play video):
 
