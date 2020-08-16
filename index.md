@@ -1,7 +1,7 @@
 ## Welcome My ePortfolio Page
 
 ### Professional self-assessment
-During my coursework I learn many languages in computer science. I created this ePortfolio to help showcased my strengths in multiple areas. Software design and engineering, algorithms and data structure, and databases. 
+During my coursework I learned many languages in computer science. I created this ePortfolio to help showcased my strengths in multiple areas. Software design and engineering, algorithms and data structure, and databases. I have grown as a software developper through team projects and practicing the agile approach with my classmates. I've learned how to practice good programming through my capstone course by learning how to better review my codes. I also got to put to practice many of the skills I've learned over my coursework and see how I've improved my programming style. Under is few of the projects I worked on. For software design and engineering I developped a data analisys software to analyse nationalgrid usage data, for algorithms and data structure I developed a GUI using Qt to show how what happens to a linked list when CRUD opperation are performed on it, and for database I creaded a Python script to perform CRUD operation on a MongoDB database. All these projects will demostrate my skilss in using various tools and programming languages as a computer science major.
 
 Code Review (click thumbnail to play video):
 
@@ -28,7 +28,7 @@ This software I developed named PythonLinkedListGUI is a GUI that shows the link
 ![Image of application](https://raw.githubusercontent.com/haydnady/PythonLinkedListGUI/master/img/uiScreenshot.JPG)
 
 
-### Algorithms and data structure project
+### Database
 [GitHub Link PythonLinkedListGUI](https://github.com/haydnady/PythonLinkedListGUI)
 
 This project is a MongoDB project (named MongoDBCRUD) from my CS Advanced Programming Concepts course. It was created in 2020. The software allows one to perform CRUD operation on a MongoDB database (for example: read, add, update, delete). 
